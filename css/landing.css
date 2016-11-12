@@ -1,0 +1,15 @@
+#container {
+  width: 600px;
+  height: 210px;
+  background-color: #fbf6f0;
+}
+ul {
+  float: left;
+  height: 210px;
+  width: 150px;
+}
+#changingContent {
+  float: left;
+  height: 210px;
+  width: 400px;
+}
